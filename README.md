@@ -4,4 +4,4 @@
 
 Video demo: https://www.youtube.com/watch?v=lhgn0yn0PrY&ab_channel=Guraw
 
-Unity Chess game. Networking with .NET
+Unity Chess game. Peer to peer networking with .NET
